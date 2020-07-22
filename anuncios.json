@@ -1,0 +1,191 @@
+{
+  "anuncios": [
+    {
+      "nombre": "Bicicleta",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": true,
+      "precio": 23015,
+      "foto": "bici.jpg",
+      "tags": ["lifestyle", "motor"],
+      "username": "Pepetrabas",
+      "url": "bicicleta",
+      "dateCreation": "2020/10/07"
+    },
+    {
+      "nombre": "iPhone 3GS",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": false,
+      "precio": 5000,
+      "foto": "iphone.png",
+      "tags": ["lifestyle", "mobile"],
+      "username": "Pepetrabas",
+      "url": "iphone-3gs",
+      "dateCreation": "2019/10/07"
+    },
+    {
+      "nombre": "Airpods",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": false,
+      "precio": 150,
+      "foto": "airpods.jpg",
+      "tags": ["lifestyle", "mobile"],
+      "username": "Pepetrabas",
+      "url": "airpods",
+      "dateCreation": "2020/10/02"
+    },
+    {
+      "nombre": "Bicicleta vintage",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": false,
+      "precio": 500,
+      "foto": "bicycle.jpg",
+      "tags": ["lifestyle", "motor"],
+      "username": "Adela",
+      "url": "bicilceta-vintage",
+      "dateCreation": "2020/10/06"
+    },
+    {
+      "nombre": "iPhone - Black",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": false,
+      "precio": 200,
+      "foto": "blak iphone.jpg",
+      "tags": ["lifestyle", "mobile"],
+      "username": "Pepetrabas",
+      "url": "iphone-black",
+      "dateCreation": "2019/10/07"
+    },
+    {
+      "nombre": "Libro Antiguo",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": false,
+      "precio": 50,
+      "foto": "book.jpg",
+      "tags": ["lifestyle", "mobile"],
+      "username": "Pepetrabas",
+      "url": "libro-antiguo",
+      "dateCreation": "2020/10/03"
+    },
+    {
+      "nombre": "Pack de Cámaras",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": false,
+      "precio": 250,
+      "foto": "camera pack.jpg",
+      "tags": ["lifestyle", "mobile"],
+      "username": "Pepetrabas",
+      "url": "pack-de-camaras",
+      "dateCreation": "2020/10/04"
+    },
+    {
+      "nombre": "Silla de diseño",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": false,
+      "precio": 500,
+      "foto": "design chair.jpg",
+      "tags": ["lifestyle", "mobile"],
+      "username": "Adela",
+      "url": "silla-de-diseno",
+      "dateCreation": "2020/10/05"
+    },
+    {
+      "nombre": "Cargador de iPhone",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": false,
+      "precio": 50,
+      "foto": "iphone charger.jpg",
+      "tags": ["lifestyle", "mobile"],
+      "username": "Adela",
+      "url": "cargador-de-iphone",
+      "dateCreation": "2020/10/06"
+    },
+    {
+      "nombre": "iPhone Blanco",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": true,
+      "precio": 50,
+      "foto": "iphone.jpg",
+      "tags": ["lifestyle", "mobile"],
+      "username": "Adela",
+      "url": "iphone-blanco",
+      "dateCreation": "2020/08/07"
+    },
+    {
+      "nombre": "Lámpara",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": true,
+      "precio": 50,
+      "foto": "lamp.jpg",
+      "tags": ["lifestyle", "mobile"],
+      "username": "Adela",
+      "url": "lampara",
+      "dateCreation": "2020/10/02"
+    },
+    {
+      "nombre": "MacBook",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": false,
+      "precio": 1500,
+      "foto": "macbook.jpg",
+      "tags": ["lifestyle", "mobile"],
+      "username": "Adela",
+      "url": "macbook",
+      "dateCreation": "2020/10/04"
+    },
+    {
+      "nombre": "Moto",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": false,
+      "precio": 500,
+      "foto": "motorcycle.jpg",
+      "tags": ["lifestyle", "motor"],
+      "username": "Adela",
+      "url": "moto",
+      "dateCreation": "2020/12/05"
+    },
+    {
+      "nombre": "Cámara de fotos",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": false,
+      "precio": 350,
+      "foto": "photo camera.jpg",
+      "tags": ["lifestyle", "mobile"],
+      "username": "Adela",
+      "url": "camara-de-fotos",
+      "dateCreation": "2020/12/05"
+    },
+    {
+      "nombre": "Cámara de fotos antigua",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": false,
+      "precio": 600,
+      "foto": "photocamera.jpg",
+      "tags": ["lifestyle", "mobile"],
+      "username": "Juan",
+      "url": "camara-de-fotos-antigua",
+      "dateCreation": "2020/12/05"
+    },
+    {
+      "nombre": "Teléfono antiguo",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "venta": false,
+      "precio": 5000,
+      "foto": "telephone.jpg",
+      "tags": ["lifestyle", "mobile"],
+      "username": "Juan",
+      "url": "telefono-antiguo",
+      "dateCreation": "2020/10/03"
+    },
+    {
+      "nombre": "Silla vintage",
+      "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen booka",
+      "venta": false,
+      "precio": 25,
+      "foto": "vintage-chair.jpg",
+      "tags": ["lifestyle", "work"],
+      "username": "Juan",
+      "url": "silla-vintage",
+      "dateCreation": "2020/12/05"
+    }
+  ]
+}
